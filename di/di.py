@@ -15,5 +15,4 @@ class Writer:
 
 
 if __name__ == "__main__":
-    writing_instrument = Pen()
-    writer = Writer(writing_instrument=writing_instrument)
+    writer = Writer(writing_instrument=Pen())
